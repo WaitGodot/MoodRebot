@@ -18,6 +18,10 @@ class Exchange():
         if self.delegate and self.delegate.prepare:
             self.delegate.prepare(period, timestamp);
 
+    def getNextKTime(self, period, timestamp):
+        if self.delegate and self.delegate.getNextKTime:
+            return self.delegate.getNextKTime(period, timestamp);
+
     def getServerTimestamp(self):
         if self.delegate:
             return self.delegate.getServerTimestamp();

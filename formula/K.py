@@ -8,7 +8,7 @@
 # increase
 # amplitude
 
-LIMIT = 0.096;
+LIMIT = 0.095;
 
 def ct(t):
     if t > 1000000000000:

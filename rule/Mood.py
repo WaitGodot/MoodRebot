@@ -41,32 +41,34 @@ class Mood():
         f.close();
 
     def Run(self, d, period=None, servertimestamp=None):
-        ret = { "stat" : 0, "open_increase" : 0, 'limit_count' : 0};
-
         lastidx = self.KLines.Input(d);
-        if len(self.KLines) < 2:
-            return ret;
+        ret = { "stat" : 0, "open_increase" : 0,  "increase" : 0, 'limit_count' : 0};
 
-        if lastidx == self.lastidx:
+        if len(self.KLines) < 10:
             return ret;
 
         k = self.KLines[-1];
-        # stat
-        stat = self.KLines.Stat();
 
-        # pre
-        prek = self.KLines[-2];
-        if stat == 3:
-            self.limitcount += 1;
-        else:
+        if servertimestamp != None and servertimestamp - k.t > 24*60*60*10:
             self.limitcount = 0;
 
-        ret["open_increase"] = (k.o - prek.c) / prek.c;
-        ret['limit_count'] = self.limitcount;
-        ret["stat"] = stat;
+        if lastidx != self.lastidx:
+            stat = self.KLines.Stat();
+            # pre
+            prek = self.KLines[-2];
+            if stat == 3:
+                self.limitcount += 1;
+            else:
+                self.limitcount = 0;
 
-        self.lastidx = lastidx;
-        self.data.append(ret);
+            ret["open_increase"] = (k.o - prek.c) / prek.c;
+            ret["increase"] = (k.c - prek.c) / prek.c;
+            ret["stat"] = stat;
+
+            self.lastidx = lastidx;
+            self.data.append(ret);
+
+        ret['limit_count'] = self.limitcount;
 
         return ret;
 

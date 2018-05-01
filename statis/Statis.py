@@ -56,7 +56,7 @@ class Statis():
         # rule.
         self.rules = {};
         # init.
-        #
+        self.currenttimestamp = 0;
         for k,v in enumerate(self.markets):
             market = v['id'];
 
@@ -70,48 +70,44 @@ class Statis():
 
             lastk = r.KLines.Get(-1);
             self.rules[market] = r;
-            # if lastk:
+            if lastk:
+                self.currenttimestamp = lastk.t;
             #    Log.d('index:%d, start market:%s, begin time %s, current time:%s'%(k, market, time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(r.KLines.Get(0).t)), time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(lastk.t))));
         self.zuorizhangting = {};
         self.datas = [];
 
     def run(self):
         # print '-----------------------------------------------------------------'
-        stop = True;
-        ktime = time.time();
+        stop = False;
+        rest = True;
         # markets
         nmarkets = self.exchange.getMarkets()
         if nmarkets:
             self.markets = nmarkets;
 
         data = {};
-        self.datas.append(data);
-
         stats = [];
+
+        self.currenttimestamp = self.exchange.getNextKTime(self.period, self.currenttimestamp);
         for k,v in enumerate(self.markets):
             market = v['id'];
-            r = self.rules[market];
-            lastk = r.KLines.Get(-1);
-            dk = None;
-            if lastk:
-                kcount = 2; #int(math.floor((time.time()-lastk.t)/(self.period*60)) + 2);
-                if kcount < 2:
-                    kcount = 2;
-                dk = self.exchange.getK(market, kcount, self.period, lastk.t);
-            #    print dk
-            if dk and len(dk) > 0:
-                ret     = r.Run(dk);
-                stats.append(ret);
-                ret['market'] = market;
-                if lastk != r.KLines.Get(-1):
-                    lastk = r.KLines.Get(-1);
-                    stop = False;
-                    ktime = lastk.t;
-                    # print time.strftime('%Y-%m-%d', time.localtime(lastk.t)), r.limitcount, ret, lastk;
+            r   = self.rules[market];
+            dk  = self.exchange.getK(market, 1, self.period, self.currenttimestamp);
+            ret = r.Run(dk, self.period, self.currenttimestamp);
+            ret['market'] = market;
+            stats.append(ret);
+            if len(dk) > 0:
+                rest = False;
+        if rest :
+            print 'rest', time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(self.currenttimestamp))
 
         statsconut = {"-3":0, "-2":0, "-1":0, "0":0, "1":0, "2":0, "3":0};
         maxlimitcount = 0;
+        maxlimitmarket = 'None';
         limit2openincrese = 0;
+        limit2count = 0;
+        limit2increase = 0;
+
         jinrizhangting = {};
         for k, v in enumerate(stats):
             c = v["stat"];
@@ -121,12 +117,16 @@ class Statis():
             statsconut[str(c)] += 1;
             if self.zuorizhangting.get(market):
                 limit2openincrese += v['open_increase'];
+                limit2increase += v['increase'];
+                if c > 0:
+                    limit2count += 1;
             if limit_count > 0:
                 jinrizhangting[market] = True;
             if maxlimitcount < limit_count:
                 maxlimitcount = limit_count;
+                maxlimitmarket = market;
 
-        data['time'] = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(ktime));
+        data['time'] = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(self.currenttimestamp));
         data['ping'] = statsconut['0'];
         data["shangzhang"] = statsconut['3'] + statsconut['2'] + statsconut['1'];
         data['xiadie'] = statsconut['-3'] + statsconut['-2'] + statsconut['-1'];
@@ -135,11 +135,7 @@ class Statis():
         data["kaiban"] = statsconut['2'];
         data['dieting'] = statsconut['-3'];
         data['lianbanshu'] = maxlimitcount;
-
-        if len(self.zuorizhangting) > 0:
-            data['lianbankaipanavg'] = limit2openincrese/len(self.zuorizhangting);
-        else:
-            data['lianbankaipanavg'] = 0;
+        data['maxlimitmarket'] = maxlimitmarket;
 
         if statsconut['2'] + statsconut['3'] > 0:
             data['fengbanlv'] = float(statsconut['2']) / float(statsconut['2'] + statsconut['3']);
@@ -150,16 +146,29 @@ class Statis():
             data['zhangdietingbi'] = float(statsconut['3']) / float(statsconut['-3']);
         else:
             data['zhangdietingbi'] = 1;
+
+        lenzuorizhangting = len(self.zuorizhangting)
+        if lenzuorizhangting > 0:
+            data['y_lianbankaipanavg'] = limit2openincrese / lenzuorizhangting / 0.1;
+            data['y_lianbanavg'] = limit2increase / lenzuorizhangting / 0.1;
+            data['y_shangzhanglv'] = float(limit2count) / float(lenzuorizhangting);
+        else:
+            data['y_lianbankaipanavg'] = 0;
+            data['y_lianbanavg'] = 0;
+            data['y_shangzhanglv'] = 0;
+
         # print data;
-
+        if rest == False:
+            self.datas.append(data);
         self.zuorizhangting = jinrizhangting;
-
+        if self.currenttimestamp > time.time():
+            stop = True;
         return stop;
 
     def Export(self, path):
         f = open(path, 'wb');
         w = csv.writer(f);
-        w.writerow(['time', 'ping', 'shangzhang', 'xiadie', 'shangzhanglv', 'zhangting', 'kaiban', 'dieting', 'fengbanlv', 'zhangdietingbi', 'lianbanshu', 'lianbankaipanavg']);
+        w.writerow(['time', 'ping', 'shangzhang', 'xiadie', 'shangzhanglv', 'zhangting', 'kaiban', 'dieting', 'fengbanlv', 'zhangdietingbi', 'lianbanshu', 'maxlimitmarket', 'y_lianbankaipanavg', "y_lianbanavg", "y_shangzhanglv"]);
         for k, data in enumerate(self.datas):
             d = [];
             d.append(data['time'])
@@ -173,7 +182,11 @@ class Statis():
             d.append(data['fengbanlv'])
             d.append(data['zhangdietingbi'])
             d.append(data['lianbanshu'])
-            d.append(data['lianbankaipanavg'])
+            d.append(data['maxlimitmarket'])
+            d.append(data['y_lianbankaipanavg'])
+            d.append(data['y_lianbanavg'])
+            d.append(data['y_shangzhanglv'])
+
 
             w.writerow(d);
         f.close();

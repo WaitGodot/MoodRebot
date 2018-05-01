@@ -18,6 +18,12 @@ PERIOD2TYPE = {
     1680:   'w',
 }
 
+def TIMEINTERVAL(lastt, period, count):
+    if period == 240:
+        return lastt + count * 24 * 60 * 60;
+    if period == 1680:
+        return lastt + count * 7 * 24 * 60 * 60;
+    return lastt + count * period * 60;
 def PERIOD(period):
     return PERIOD2TYPE.get(period);
 def TIMESTAMP(period, timestamp):
@@ -165,6 +171,9 @@ class tushareEXLocal():
 
 
     # function
+    def getNextKTime(self, period, timestamp):
+        return TIMEINTERVAL(timestamp, period, 1);
+
     def getServerTimestamp(self):
         return self.client.time();
 
@@ -206,14 +215,17 @@ class tushareEXLocal():
                 ks = self.kss.get(market);
 
         if ks == None or len(ks) == 0:
-            print '%s do not find kline' % market
+            # print '%s do not find kline' % market
             return ret;
         if timestamp > ks[-1][0]:
-            print '{0} k line is over'.format(market);
+            # print '{0} k line is over'.format(market);
             return ret;
 
+        # print 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx',time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(timestamp))
+        pp = TIMEINTERVAL(timestamp, period, limit);
         for k,v in enumerate(ks):
-            if v[0] >= timestamp:
+            if v[0] >= timestamp and v[0] < pp:
+                # print 'tt', time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(v[0])), v;
                 ret.append(v);
             if len(ret) >= limit:
                 return ret;
