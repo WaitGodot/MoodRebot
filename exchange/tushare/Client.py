@@ -46,7 +46,8 @@ class Client():
 
     def getK(self, market, period, timestamp):
         key = '%s%s' %(market, period);
-        return self.kdatas[key]; #return ts.get_k_data(market, start = timestamp, ktype = period);
+        return self.kdatas.get(key);
+        # return self.kdatas[key]; #return ts.get_k_data(market, start = timestamp, ktype = period);
 
     def getMarkets(self):
         data = self.kdatas['market'].values.tolist();

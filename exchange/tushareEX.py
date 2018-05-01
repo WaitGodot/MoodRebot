@@ -185,32 +185,33 @@ class tushareEXLocal():
         #return [{'id':'anscny'}];
 
     def getK(self, market, limit, period, timestamp=None):
+        ret = [];
         ks = self.kss.get(market);
         if ks==None:
             data = self.client.getK(market, PERIOD(period), TIMESTAMP(period, timestamp));
-            ndata = data.values.tolist();
-            for k,v in enumerate(ndata):
-                if period >= 240:
-                    v[0] = time.mktime(time.strptime(v[0], "%Y-%m-%d"));
-                else:
-                    v[0] = time.mktime(time.strptime(v[0], "%Y-%m-%d %H:%M"));
-                c = v[2];
-                h = v[3];
-                l = v[4];
-                v[2] = h;
-                v[3] = l;
-                v[4] = c;
-            self.kss[market] = ndata;
-            ks = self.kss.get(market);
-            # time.sleep(0.01);
-
+            if data is not None:
+                ndata = data.values.tolist();
+                for k,v in enumerate(ndata):
+                    if period >= 240:
+                        v[0] = time.mktime(time.strptime(v[0], "%Y-%m-%d"));
+                    else:
+                        v[0] = time.mktime(time.strptime(v[0], "%Y-%m-%d %H:%M"));
+                    c = v[2];
+                    h = v[3];
+                    l = v[4];
+                    v[2] = h;
+                    v[3] = l;
+                    v[4] = c;
+                self.kss[market] = ndata;
+                ks = self.kss.get(market);
 
         if ks == None or len(ks) == 0:
             print '%s do not find kline' % market
+            return ret;
         if timestamp > ks[-1][0]:
             print '{0} k line is over'.format(market);
-            return [];
-        ret = [];
+            return ret;
+
         for k,v in enumerate(ks):
             if v[0] >= timestamp:
                 ret.append(v);

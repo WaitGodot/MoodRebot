@@ -29,13 +29,13 @@ class RebotConfig():
     rebot_do_per_period = 120;
     rebot_release = False;
     rebot_is_test = True;
-    rebot_test_k_count = 500;
+    rebot_test_k_count = 1000;
     rebot_test_begin = time.time() - rebot_test_k_count / (24 * 60 / rebot_period) * 24*60*60; #1502006400;
 
     rebot_loss_ratio = -5;
     rebot_profit_ratio = -8;
     # rebot_trade_markets = [{'id':'etcusdt'}, {'id':'btcusdt'}, {'id':'bchusdt'},{'id':'ethusdt'},{'id':'ltcusdt'},{'id':'eosusdt'},{'id':'xrpusdt'},{'id':'omgusdt'},{'id':'dashusdt'},{'id':'zecusdt'},{'id':'htusdt'}];
-    rebot_trade_markets = [{'id':'603688'}];#[{'id':'603998'}, {'id':'603997'}]; #[{'id':'btccny'}, {'id':'ltccny'}, {'id':'ethcny'}, {'id':'etccny'}, {'id':'btscny'}]#[{'id':'luncny'}];
+    rebot_trade_markets = [];#[{'id':'002806'}];#[{'id':'603998'}, {'id':'603997'}]; #[{'id':'btccny'}, {'id':'ltccny'}, {'id':'ethcny'}, {'id':'etccny'}, {'id':'btscny'}]#[{'id':'luncny'}];
     # rebot_trade_markets = [{'id':'bchusdt'}];
     # file
     path = ''

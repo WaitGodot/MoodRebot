@@ -112,7 +112,7 @@ class User():
                 if self.amount < RebotConfig.user_asset_least:
                     volume = self.amount / price;
                 else:
-                    cleastamount = self.amount/RebotConfig.user_asset_ratio 
+                    cleastamount = self.amount/RebotConfig.user_asset_ratio
                     if cleastamount < RebotConfig.user_asset_least:
                         cleastamount = RebotConfig.user_asset_least;
                     volume = cleastamount / price ;
