@@ -1,4 +1,4 @@
-import time
+﻿import time
 import urllib2
 import math
 import csv
@@ -138,7 +138,7 @@ class Statis():
         data['maxlimitmarket'] = maxlimitmarket;
 
         if statsconut['2'] + statsconut['3'] > 0:
-            data['fengbanlv'] = float(statsconut['2']) / float(statsconut['2'] + statsconut['3']);
+            data['fengbanlv'] = float(statsconut['3']) / float(statsconut['2'] + statsconut['3']);
         else:
             data['fengbanlv'] = 1;
 

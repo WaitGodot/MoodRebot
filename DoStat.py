@@ -33,16 +33,11 @@ def Done():
             print 'sleep time', RebotConfig.rebot_period*60/RebotConfig.rebot_do_per_period;
             time.sleep(RebotConfig.rebot_period*60/RebotConfig.rebot_do_per_period);
     r.Export('%sstat.csv' % RebotConfig.path);
-Done();
-'''
-nr = threading.Thread(target=Done);
-nr.start();
 
-while True:
-    try:
-        STATUS = input('STATUS:');
-        if STATUS == 'stop':
-            break;
-    except Exception:
-        print ''
-'''
+if __name__ == "__main__":
+
+    if len(sys.argv) > 1:
+        RebotConfig.data_need_load = True;
+    else:
+        RebotConfig.data_need_load = False;
+    Done();

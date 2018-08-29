@@ -8,8 +8,6 @@
 # increase
 # amplitude
 
-LIMIT = 0.095;
-
 def ct(t):
     if t > 1000000000000:
         return t/1000;
@@ -121,14 +119,17 @@ class KLine():
         ck = self.data[idx];
         pk = self.data[idx-1];
 
+        lh = round(pk.c * 1.1, 2);
+        ll = round(pk.c * 0.9, 2);
+
         if ck.c <= 0:
             return 0;
-        if (ck.h - pk.c) / pk.c >= LIMIT:
+        if ck.h == lh:
             if ck.h == ck.c:
                 return 3;
             else:
                 return 2;
-        if (ck.l - pk.c) / pk.c <= -LIMIT:
+        if ck.l == ll:
                 if ck.l == ck.c:
                     return -3;
                 else:

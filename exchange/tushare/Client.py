@@ -14,10 +14,9 @@ class Client():
         for k,v in enumerate(data):
             id = str(v[0]);
             key = '%s%s' %(id, period);
-            print id, key, period, timestamp
-            kd = ts.get_k_data(id, start = timestamp, ktype = period);
+            print id, key, period, timestamp, k, len(data);
+            kd = ts.get_k_data(id, ktype = period);#ts.get_k_data(id, start = timestamp, ktype = period);
             kd.to_csv('./data/%s/%s.csv' % (period, id), index=False);
-
             self.kdatas[key] = kd;
         print 'load data compelete'
 
