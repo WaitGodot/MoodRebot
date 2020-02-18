@@ -29,13 +29,13 @@ class K():
         self.c = data[4];
         self.vol = data[5];
 
-        self.rmbvolume = self.vol * (self.h + self.l) / 2;
+        self.amount = self.vol * (self.h + self.l) / 2;
         self.increase = 0;
-        if self.o > 0:
-            self.increase = (self.c - self.o) / self.o;
         self.amplitude = 0;
         if self.l > 0:
             self.amplitude = (self.h - self.l) / self.l;
+        if len(data) >= 7:
+            self.amount = data[6];
 
     def Contain(self, ohterk):
         if self.h >= ohterk.h and self.l <= ohterk.l :
@@ -85,13 +85,13 @@ class KLine():
                     last.Set(d);
                     self.prices[-1]     = last.c;
                     self.volumes[-1]    = last.vol;
-                    self.rmbvolumes[-1] = last.rmbvolume;
+                    self.rmbvolumes[-1] = last.amount;
                     continue;
             nk = K(d, self.idx);
             self.data.append(nk)
             self.prices.append(nk.c);
             self.volumes.append(nk.vol);
-            self.rmbvolumes.append(nk.rmbvolume);
+            self.rmbvolumes.append(nk.amount);
             self.idx += 1;
         return self.idx;
 

@@ -7,7 +7,7 @@ from Log import Log
 from Time import Time
 
 from RebotConfig import RebotConfig
-from statis.Statis import Statis
+from statis.TrutleStat import TrutleStat
 
 
 STATUS = "running";
@@ -16,7 +16,7 @@ socket.setdefaulttimeout(60);
 
 def Done():
     Log.d('\nstart rebot %s' % time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(Time.Time())));
-    r = Statis(RebotConfig.rebot_period);
+    r = TrutleStat(RebotConfig.rebot_period);
     t = 0;
     while True:
         global STATUS;

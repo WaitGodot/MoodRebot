@@ -139,3 +139,20 @@ def RATE(xArr, yArr, idx=None):
             yArr.append(xArr[k] - xArr[k-1]);
         else:
             yArr.append(1990214);
+
+def ZERO( count):
+    if count == 1:
+        return '0';
+    if count == 2:
+        return '00';
+    if count == 3:
+        return '000';
+    if count == 4:
+        return '0000';
+    if count == 5:
+        return '00000';
+
+def NORMALIZE(id):
+    if len(id) < 6:
+        id = '%s%s' % (ZERO(6 - len(id)), id);
+    return id;

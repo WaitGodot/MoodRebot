@@ -68,12 +68,6 @@ class tushareEX():
                 v[0] = time.mktime(time.strptime(v[0], "%Y-%m-%d"));
             else:
                 v[0] = time.mktime(time.strptime(v[0], "%Y-%m-%d %H:%M"));
-            c = v[2];
-            h = v[3];
-            l = v[4];
-            v[2] = h;
-            v[3] = l;
-            v[4] = c;
         return data;
 
     def getOrder(self, market):
@@ -106,6 +100,9 @@ class tushareEXLocal():
 
     def prepare(self, period, timestamp):
         self.client.prepare(PERIOD(period), TIMESTAMP(period, timestamp));
+
+    def refresh(self, period, market):
+        self.client.refresh(period, market);
 
     def createOrder(self, market, side, time, price, volume, ext):
         volume = math.floor(volume/100)*100;
@@ -205,12 +202,6 @@ class tushareEXLocal():
                         v[0] = time.mktime(time.strptime(v[0], "%Y-%m-%d"));
                     else:
                         v[0] = time.mktime(time.strptime(v[0], "%Y-%m-%d %H:%M"));
-                    c = v[2];
-                    h = v[3];
-                    l = v[4];
-                    v[2] = h;
-                    v[3] = l;
-                    v[4] = c;
                 self.kss[market] = ndata;
                 ks = self.kss.get(market);
 

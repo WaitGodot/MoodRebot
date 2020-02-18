@@ -82,3 +82,1953 @@ INFO:root:
 start rebot 2018-08-29 18:03:50
 INFO:root:
 start rebot 2018-08-29 19:32:13
+INFO:root:
+start rebot 2019-12-31 11:53:42
+INFO:root:
+start rebot 2019-12-31 11:55:22
+INFO:root:
+start rebot 2019-12-31 12:02:11
+INFO:root:
+start rebot 2019-12-31 12:03:27
+INFO:root:
+start rebot 2020-01-02 10:55:31
+INFO:root:
+start rebot 2020-01-02 11:00:37
+INFO:root:
+start rebot 2020-01-02 11:02:53
+INFO:root:
+start rebot 2020-01-02 11:06:38
+INFO:root:
+start rebot 2020-01-02 11:10:39
+INFO:root:
+start rebot 2020-01-02 11:12:40
+INFO:root:
+start rebot 2020-01-02 11:16:19
+INFO:root:
+start rebot 2020-01-02 11:19:22
+INFO:root:
+start rebot 2020-01-02 11:20:30
+INFO:root:
+start rebot 2020-01-02 11:25:45
+INFO:root:
+start rebot 2020-01-02 11:28:38
+INFO:root:
+start rebot 2020-01-02 11:33:23
+INFO:root:
+start rebot 2020-01-02 11:33:36
+INFO:root:
+start rebot 2020-01-02 11:37:56
+INFO:root:
+start rebot 2020-01-02 11:40:46
+INFO:root:
+start rebot 2020-01-02 11:41:41
+INFO:root:
+start rebot 2020-01-02 11:43:49
+INFO:root:
+start rebot 2020-01-02 11:44:18
+INFO:root:
+start rebot 2020-01-02 11:45:01
+INFO:root:
+start rebot 2020-01-02 11:46:19
+INFO:root:
+start rebot 2020-01-02 11:53:15
+INFO:root:
+start rebot 2020-01-02 11:54:22
+INFO:root:
+start rebot 2020-01-02 11:55:23
+INFO:root:
+start rebot 2020-01-02 13:40:55
+INFO:root:
+start rebot 2020-01-02 13:45:59
+INFO:root:
+start rebot 2020-01-02 14:02:15
+INFO:root:
+start rebot 2020-01-02 14:09:48
+INFO:root:
+start rebot 2020-01-02 14:48:46
+INFO:root:
+start rebot 2020-01-02 14:49:39
+INFO:root:
+start rebot 2020-01-02 15:47:30
+INFO:root:
+start rebot 2020-01-02 16:13:35
+INFO:root:
+start rebot 2020-01-02 16:42:55
+INFO:root:
+start rebot 2020-01-02 17:00:48
+INFO:root:
+start rebot 2020-01-02 17:38:19
+INFO:root:
+start rebot 2020-01-02 17:39:03
+INFO:root:
+start rebot 2020-01-02 18:05:52
+INFO:root:
+start rebot 2020-01-02 18:12:38
+INFO:root:
+start rebot 2020-01-02 18:20:53
+INFO:root:
+start rebot 2020-01-02 18:31:24
+INFO:root:
+start rebot 2020-01-02 18:41:14
+INFO:root:
+start rebot 2020-01-02 18:46:12
+INFO:root:
+start rebot 2020-01-02 18:50:57
+INFO:root:
+start rebot 2020-01-02 18:58:09
+INFO:root:
+start rebot 2020-02-17 14:19:45
+INFO:root:
+start rebot 2020-02-17 14:22:07
+INFO:root:
+start rebot 2020-02-17 14:22:54
+INFO:root:
+start rebot 2020-02-17 14:24:10
+INFO:root:
+start rebot 2020-02-17 14:24:30
+INFO:root:
+start rebot 2020-02-17 14:29:46
+INFO:root:
+start rebot 2020-02-17 14:30:30
+INFO:root:
+start rebot 2020-02-17 14:35:35
+INFO:root:
+start rebot 2020-02-17 14:36:43
+INFO:root:
+start rebot 2020-02-17 14:38:11
+INFO:root:
+start rebot 2020-02-17 14:40:14
+INFO:root:
+start rebot 2020-02-17 15:05:16
+INFO:root:
+start rebot 2020-02-17 15:07:10
+INFO:root:
+start rebot 2020-02-17 15:08:15
+INFO:root:
+start rebot 2020-02-17 15:11:24
+INFO:root:
+start rebot 2020-02-17 15:14:32
+INFO:root:
+start rebot 2020-02-17 15:20:19
+INFO:root:
+start rebot 2020-02-17 15:21:17
+INFO:root:
+start rebot 2020-02-17 15:21:59
+INFO:root:
+start rebot 2020-02-17 15:22:08
+INFO:root:
+start rebot 2020-02-17 15:24:49
+INFO:root:
+start rebot 2020-02-17 16:12:03
+INFO:root:
+start rebot 2020-02-17 16:13:05
+INFO:root:
+start rebot 2020-02-17 16:13:22
+INFO:root:
+start rebot 2020-02-17 16:13:36
+INFO:root:
+start rebot 2020-02-17 16:15:13
+INFO:root:
+start rebot 2020-02-17 17:39:52
+INFO:root:
+start rebot 2020-02-17 18:00:01
+INFO:root:
+start rebot 2020-02-17 18:01:40
+INFO:root:
+start rebot 2020-02-17 18:03:20
+INFO:root:
+start rebot 2020-02-17 18:12:40
+INFO:root:
+start rebot 2020-02-17 18:14:10
+INFO:root:
+start rebot 2020-02-17 18:14:23
+INFO:root:
+start rebot 2020-02-18 10:05:17
+INFO:root:
+start rebot 2020-02-18 10:34:45
+INFO:root:
+start rebot 2020-02-18 10:35:04
+INFO:root:
+start rebot 2020-02-18 10:35:59
+INFO:root:
+start rebot 2020-02-18 10:36:24
+INFO:root:
+start rebot 2020-02-18 10:38:00
+INFO:root:
+start rebot 2020-02-18 10:38:10
+INFO:root:
+start rebot 2020-02-18 10:39:10
+INFO:root:
+start rebot 2020-02-18 10:40:06
+INFO:root:
+start rebot 2020-02-18 10:46:36
+INFO:root:
+start rebot 2020-02-18 10:47:06
+INFO:root:
+start rebot 2020-02-18 10:47:39
+INFO:root:
+start rebot 2020-02-18 10:48:15
+INFO:root:
+start rebot 2020-02-18 10:48:29
+INFO:root:
+start rebot 2020-02-18 10:49:14
+INFO:root:
+start rebot 2020-02-18 10:50:35
+INFO:root:
+start rebot 2020-02-18 10:55:43
+INFO:root:
+start rebot 2020-02-18 11:01:46
+INFO:root:
+start rebot 2020-02-18 11:02:37
+INFO:root:index:0, start market:600171, begin time 2020-01-20 00:00:00, current time:2020-02-18 00:00:00
+INFO:root:
+start rebot 2020-02-18 11:13:22
+INFO:root:index:0, start market:600171, begin time 2020-01-20 00:00:00, current time:2020-01-20 00:00:00
+INFO:root:
+start rebot 2020-02-18 11:15:34
+INFO:root:index:0, start market:600171, begin time 2020-01-17 00:00:00, current time:2020-01-17 00:00:00
+INFO:root:
+start rebot 2020-02-18 11:16:24
+INFO:root:index:0, start market:600171, begin time 2020-01-07 00:00:00, current time:2020-01-07 00:00:00
+INFO:root:
+start rebot 2020-02-18 11:16:52
+INFO:root:index:0, start market:600171, begin time 2019-11-28 00:00:00, current time:2019-11-28 00:00:00
+INFO:root:
+start rebot 2020-02-18 11:17:38
+INFO:root:index:0, start market:600171, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:
+start rebot 2020-02-18 11:18:28
+INFO:root:index:0, start market:600171, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:
+start rebot 2020-02-18 11:19:18
+INFO:root:index:3, start market:688388, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:10, start market:688333, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:11, start market:688321, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:27, start market:688188, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:31, start market:688168, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:39, start market:688122, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:46, start market:688099, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:50, start market:688088, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:55, start market:688066, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:60, start market:688033, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:62, start market:688029, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:63, start market:688028, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:67, start market:688022, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:69, start market:688020, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:70, start market:688019, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:71, start market:688018, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:72, start market:688016, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:73, start market:688015, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:74, start market:688012, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:75, start market:688011, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:76, start market:688010, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:77, start market:688009, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:78, start market:688008, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:79, start market:688007, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:80, start market:688006, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:81, start market:688005, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:82, start market:688003, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:83, start market:688002, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:84, start market:688001, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:85, start market:603999, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:86, start market:603998, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:87, start market:603997, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:88, start market:603996, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:90, start market:603993, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:91, start market:603992, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:92, start market:603991, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:93, start market:603990, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:94, start market:603989, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:95, start market:603988, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:96, start market:603987, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:97, start market:603986, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:98, start market:603985, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:99, start market:603983, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:100, start market:603982, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:101, start market:603980, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:102, start market:603979, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:103, start market:603978, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:104, start market:603977, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:105, start market:603976, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:106, start market:603970, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:107, start market:603969, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:108, start market:603968, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:109, start market:603967, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:110, start market:603966, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:111, start market:603963, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:112, start market:603960, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:113, start market:603959, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:114, start market:603958, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:115, start market:603956, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:116, start market:603955, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:117, start market:603939, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:118, start market:603938, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:119, start market:603937, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:120, start market:603936, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:121, start market:603933, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:122, start market:603929, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:123, start market:603928, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:125, start market:603926, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:126, start market:603922, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:127, start market:603920, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:128, start market:603919, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:129, start market:603918, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:130, start market:603917, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:131, start market:603916, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:132, start market:603915, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:133, start market:603912, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:134, start market:603909, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:135, start market:603908, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:136, start market:603906, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:137, start market:603903, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:138, start market:603901, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:139, start market:603900, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:140, start market:603899, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:141, start market:603898, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:142, start market:603897, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:143, start market:603896, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:144, start market:603895, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:146, start market:603890, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:147, start market:603889, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:148, start market:603888, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:149, start market:603887, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:150, start market:603886, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:151, start market:603885, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:152, start market:603883, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:153, start market:603882, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:154, start market:603881, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:155, start market:603880, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:156, start market:603879, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:157, start market:603878, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:158, start market:603877, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:159, start market:603876, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:160, start market:603871, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:161, start market:603869, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:162, start market:603868, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:163, start market:603867, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:164, start market:603866, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:165, start market:603863, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:166, start market:603861, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:167, start market:603860, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:168, start market:603859, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:169, start market:603858, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:170, start market:603856, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:171, start market:603855, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:172, start market:603848, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:173, start market:603843, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:174, start market:603839, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:175, start market:603838, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:176, start market:603833, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:177, start market:603829, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:178, start market:603828, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:179, start market:603826, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:180, start market:603825, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:181, start market:603823, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:182, start market:603822, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:183, start market:603819, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:184, start market:603818, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:185, start market:603817, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:186, start market:603816, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:188, start market:603813, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:189, start market:603811, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:190, start market:603810, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:191, start market:603809, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:192, start market:603808, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:193, start market:603806, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:194, start market:603803, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:195, start market:603801, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:196, start market:603800, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:197, start market:603799, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:198, start market:603798, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:199, start market:603797, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:200, start market:603790, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:201, start market:603789, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:202, start market:603788, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:203, start market:603787, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:205, start market:603779, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:206, start market:603778, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:207, start market:603777, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:208, start market:603776, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:209, start market:603773, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:210, start market:603768, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:211, start market:603767, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:212, start market:603766, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:213, start market:603758, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:214, start market:603757, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:215, start market:603755, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:216, start market:603739, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:217, start market:603738, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:218, start market:603737, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:219, start market:603733, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:220, start market:603730, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:221, start market:603729, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:222, start market:603728, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:223, start market:603727, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:224, start market:603726, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:225, start market:603725, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:226, start market:603722, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:227, start market:603721, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:228, start market:603718, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:229, start market:603717, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:230, start market:603716, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:231, start market:603713, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:232, start market:603712, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:233, start market:603711, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:234, start market:603709, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:235, start market:603708, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:236, start market:603707, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:237, start market:603706, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:238, start market:603703, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:239, start market:603701, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:240, start market:603700, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:241, start market:603699, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:242, start market:603698, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:243, start market:603697, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:244, start market:603696, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:245, start market:603693, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:246, start market:603690, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:247, start market:603689, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:248, start market:603688, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:249, start market:603687, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:250, start market:603686, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:251, start market:603685, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:252, start market:603683, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:253, start market:603681, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:254, start market:603680, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:255, start market:603679, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:256, start market:603678, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:257, start market:603677, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:258, start market:603676, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:259, start market:603669, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:260, start market:603668, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:261, start market:603667, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:262, start market:603666, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:263, start market:603665, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:264, start market:603663, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:265, start market:603662, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:266, start market:603661, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:267, start market:603660, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:268, start market:603659, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:269, start market:603658, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:270, start market:603657, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:271, start market:603656, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:272, start market:603655, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:273, start market:603650, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:274, start market:603648, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:275, start market:603639, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:276, start market:603638, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:277, start market:603637, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:278, start market:603636, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:279, start market:603633, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:280, start market:603630, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:281, start market:603629, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:282, start market:603628, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:283, start market:603626, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:284, start market:603619, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:285, start market:603618, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:286, start market:603617, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:287, start market:603616, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:288, start market:603615, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:289, start market:603613, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:290, start market:603612, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:291, start market:603611, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:293, start market:603609, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:294, start market:603608, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:295, start market:603607, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:296, start market:603606, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:297, start market:603605, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:298, start market:603603, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:299, start market:603602, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:300, start market:603601, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:301, start market:603600, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:302, start market:603599, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:303, start market:603598, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:304, start market:603596, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:305, start market:603595, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:306, start market:603590, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:307, start market:603589, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:308, start market:603588, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:309, start market:603587, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:310, start market:603586, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:311, start market:603585, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:312, start market:603583, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:313, start market:603580, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:314, start market:603579, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:315, start market:603578, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:316, start market:603577, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:317, start market:603569, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:318, start market:603568, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:319, start market:603567, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:320, start market:603566, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:321, start market:603559, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:322, start market:603558, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:323, start market:603557, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:324, start market:603556, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:325, start market:603555, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:327, start market:603538, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:328, start market:603536, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:329, start market:603535, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:330, start market:603533, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:331, start market:603530, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:332, start market:603528, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:333, start market:603527, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:334, start market:603520, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:335, start market:603519, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:336, start market:603518, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:337, start market:603517, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:338, start market:603516, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:339, start market:603515, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:340, start market:603508, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:341, start market:603507, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:342, start market:603506, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:343, start market:603505, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:344, start market:603501, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:345, start market:603500, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:346, start market:603499, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:347, start market:603496, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:349, start market:603488, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:350, start market:603486, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:351, start market:603477, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:352, start market:603466, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:353, start market:603458, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:354, start market:603456, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:355, start market:603444, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:356, start market:603429, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:357, start market:603421, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:358, start market:603416, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:359, start market:603399, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:360, start market:603398, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:361, start market:603396, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:362, start market:603393, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:364, start market:603389, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:365, start market:603388, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:366, start market:603387, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:367, start market:603386, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:368, start market:603385, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:369, start market:603383, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:370, start market:603380, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:371, start market:603379, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:372, start market:603378, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:373, start market:603377, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:374, start market:603369, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:375, start market:603368, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:376, start market:603367, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:377, start market:603366, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:378, start market:603365, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:379, start market:603363, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:380, start market:603360, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:381, start market:603359, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:382, start market:603358, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:383, start market:603357, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:384, start market:603356, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:385, start market:603355, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:386, start market:603351, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:387, start market:603348, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:388, start market:603345, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:389, start market:603339, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:390, start market:603338, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:391, start market:603337, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:392, start market:603336, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:393, start market:603335, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:394, start market:603333, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:395, start market:603332, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:396, start market:603331, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:397, start market:603330, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:398, start market:603329, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:399, start market:603328, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:400, start market:603327, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:401, start market:603326, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:402, start market:603323, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:403, start market:603322, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:404, start market:603321, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:405, start market:603320, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:406, start market:603319, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:407, start market:603318, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:408, start market:603317, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:409, start market:603316, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:410, start market:603315, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:411, start market:603313, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:412, start market:603311, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:413, start market:603309, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:414, start market:603308, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:415, start market:603306, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:416, start market:603305, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:417, start market:603303, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:418, start market:603301, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:419, start market:603300, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:420, start market:603299, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:421, start market:603298, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:422, start market:603297, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:424, start market:603289, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:425, start market:603288, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:426, start market:603286, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:427, start market:603283, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:428, start market:603279, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:429, start market:603278, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:430, start market:603277, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:431, start market:603269, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:432, start market:603268, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:433, start market:603267, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:434, start market:603266, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:435, start market:603260, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:436, start market:603259, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:437, start market:603258, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:438, start market:603256, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:439, start market:603239, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:440, start market:603238, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:441, start market:603236, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:442, start market:603233, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:443, start market:603232, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:444, start market:603229, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:445, start market:603228, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:446, start market:603227, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:447, start market:603226, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:448, start market:603225, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:449, start market:603223, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:450, start market:603222, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:451, start market:603220, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:452, start market:603218, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:453, start market:603217, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:454, start market:603214, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:455, start market:603208, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:456, start market:603203, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:457, start market:603200, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:458, start market:603199, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:459, start market:603198, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:460, start market:603197, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:461, start market:603196, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:463, start market:603192, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:464, start market:603189, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:465, start market:603188, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:466, start market:603187, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:467, start market:603186, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:468, start market:603185, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:469, start market:603183, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:470, start market:603181, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:471, start market:603180, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:472, start market:603179, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:473, start market:603178, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:474, start market:603177, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:475, start market:603169, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:476, start market:603168, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:477, start market:603167, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:478, start market:603166, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:479, start market:603165, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:480, start market:603161, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:481, start market:603160, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:482, start market:603159, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:483, start market:603158, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:484, start market:603157, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:485, start market:603156, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:486, start market:603139, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:487, start market:603138, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:488, start market:603136, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:489, start market:603133, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:490, start market:603131, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:491, start market:603129, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:492, start market:603128, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:493, start market:603127, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:494, start market:603126, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:495, start market:603123, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:496, start market:603121, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:497, start market:603118, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:498, start market:603117, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:499, start market:603116, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:500, start market:603115, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:501, start market:603113, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:502, start market:603111, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:503, start market:603110, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:505, start market:603108, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:506, start market:603106, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:507, start market:603105, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:508, start market:603103, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:509, start market:603101, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:510, start market:603100, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:511, start market:603099, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:512, start market:603098, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:513, start market:603096, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:514, start market:603093, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:515, start market:603090, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:516, start market:603089, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:517, start market:603088, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:518, start market:603086, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:519, start market:603085, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:520, start market:603083, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:521, start market:603081, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:522, start market:603080, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:523, start market:603079, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:524, start market:603078, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:525, start market:603077, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:526, start market:603076, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:527, start market:603069, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:528, start market:603068, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:529, start market:603067, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:530, start market:603066, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:531, start market:603063, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:532, start market:603060, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:533, start market:603059, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:534, start market:603058, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:535, start market:603056, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:536, start market:603055, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:538, start market:603050, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:539, start market:603045, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:540, start market:603043, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:541, start market:603042, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:542, start market:603041, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:543, start market:603040, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:544, start market:603039, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:545, start market:603038, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:546, start market:603037, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:547, start market:603036, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:548, start market:603035, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:549, start market:603033, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:550, start market:603032, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:551, start market:603031, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:552, start market:603030, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:553, start market:603029, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:554, start market:603028, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:555, start market:603027, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:556, start market:603026, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:557, start market:603025, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:558, start market:603023, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:559, start market:603022, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:560, start market:603021, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:561, start market:603020, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:562, start market:603019, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:563, start market:603018, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:564, start market:603017, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:565, start market:603016, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:566, start market:603015, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:567, start market:603013, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:568, start market:603012, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:569, start market:603011, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:570, start market:603010, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:571, start market:603009, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:572, start market:603008, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:573, start market:603007, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:574, start market:603006, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:575, start market:603005, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:576, start market:603003, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:577, start market:603002, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:578, start market:603001, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:579, start market:603000, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:580, start market:601999, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:581, start market:601998, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:582, start market:601997, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:583, start market:601996, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:584, start market:601992, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:585, start market:601991, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:586, start market:601990, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:587, start market:601989, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:588, start market:601988, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:589, start market:601985, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:590, start market:601975, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:591, start market:601969, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:592, start market:601968, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:593, start market:601966, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:594, start market:601965, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:595, start market:601958, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:596, start market:601952, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:597, start market:601949, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:598, start market:601939, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:599, start market:601933, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:600, start market:601929, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:601, start market:601928, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:602, start market:601919, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:603, start market:601918, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:605, start market:601908, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:606, start market:601901, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:607, start market:601900, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:608, start market:601899, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:609, start market:601898, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:610, start market:601890, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:611, start market:601888, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:612, start market:601886, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:613, start market:601882, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:614, start market:601881, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:615, start market:601880, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:616, start market:601878, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:617, start market:601877, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:618, start market:601872, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:619, start market:601869, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:620, start market:601866, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:621, start market:601865, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:622, start market:601860, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:623, start market:601858, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:624, start market:601857, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:625, start market:601838, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:626, start market:601828, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:627, start market:601818, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:629, start market:601811, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:630, start market:601808, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:631, start market:601801, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:632, start market:601800, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:633, start market:601799, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:634, start market:601798, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:635, start market:601789, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:636, start market:601788, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:637, start market:601777, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:638, start market:601766, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:639, start market:601727, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:640, start market:601718, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:641, start market:601717, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:642, start market:601700, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:643, start market:601699, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:644, start market:601698, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:645, start market:601689, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:646, start market:601688, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:647, start market:601678, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:648, start market:601677, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:649, start market:601669, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:650, start market:601668, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:651, start market:601666, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:653, start market:601636, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:654, start market:601633, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:655, start market:601628, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:656, start market:601619, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:657, start market:601618, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:658, start market:601616, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:659, start market:601615, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:660, start market:601611, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:661, start market:601608, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:662, start market:601607, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:663, start market:601606, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:664, start market:601601, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:665, start market:601600, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:666, start market:601599, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:667, start market:601598, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:668, start market:601595, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:669, start market:601588, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:670, start market:601579, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:671, start market:601577, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:672, start market:601567, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:673, start market:601566, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:674, start market:601558, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:675, start market:601555, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:676, start market:601519, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:677, start market:601518, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:678, start market:601515, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:680, start market:601500, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:681, start market:601398, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:682, start market:601390, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:683, start market:601388, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:684, start market:601377, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:685, start market:601375, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:686, start market:601369, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:687, start market:601368, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:688, start market:601366, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:689, start market:601360, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:690, start market:601339, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:691, start market:601336, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:692, start market:601333, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:693, start market:601330, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:694, start market:601328, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:695, start market:601326, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:696, start market:601319, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:697, start market:601318, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:698, start market:601311, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:699, start market:601298, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:700, start market:601288, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:702, start market:601238, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:703, start market:601236, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:704, start market:601233, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:705, start market:601231, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:706, start market:601229, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:707, start market:601228, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:708, start market:601226, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:709, start market:601225, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:710, start market:601222, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:711, start market:601218, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:712, start market:601216, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:713, start market:601212, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:714, start market:601211, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:715, start market:601208, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:716, start market:601200, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:717, start market:601199, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:718, start market:601198, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:719, start market:601188, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:720, start market:601186, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:721, start market:601179, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:722, start market:601177, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:723, start market:601169, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:724, start market:601168, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:725, start market:601166, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:726, start market:601163, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:727, start market:601162, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:728, start market:601158, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:729, start market:601155, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:730, start market:601139, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:731, start market:601138, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:732, start market:601137, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:733, start market:601128, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:734, start market:601127, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:735, start market:601126, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:736, start market:601118, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:737, start market:601117, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:738, start market:601116, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:739, start market:601113, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:740, start market:601111, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:741, start market:601108, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:742, start market:601107, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:743, start market:601106, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:744, start market:601101, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:745, start market:601100, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:746, start market:601099, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:747, start market:601098, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:748, start market:601088, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:749, start market:601086, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:751, start market:601069, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:752, start market:601068, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:753, start market:601066, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:754, start market:601058, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:755, start market:601038, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:756, start market:601028, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:757, start market:601021, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:758, start market:601020, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:759, start market:601019, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:760, start market:601018, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:761, start market:601016, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:762, start market:601015, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:763, start market:601012, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:764, start market:601011, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:765, start market:601010, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:766, start market:601009, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:767, start market:601008, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:768, start market:601007, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:769, start market:601006, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:770, start market:601005, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:771, start market:601003, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:772, start market:601002, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:773, start market:601001, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:774, start market:601000, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:775, start market:600999, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:776, start market:600998, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:777, start market:600997, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:778, start market:600996, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:779, start market:600995, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:780, start market:600993, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:781, start market:600992, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:782, start market:600990, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:783, start market:600989, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:784, start market:600988, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:785, start market:600987, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:786, start market:600986, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:787, start market:600985, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:788, start market:600984, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:789, start market:600983, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:790, start market:600982, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:791, start market:600981, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:792, start market:600980, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:793, start market:600979, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:794, start market:600978, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:795, start market:600977, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:796, start market:600976, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:797, start market:600975, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:798, start market:600973, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:799, start market:600971, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:800, start market:600970, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:801, start market:600969, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:802, start market:600968, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:803, start market:600967, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:804, start market:600966, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:805, start market:600965, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:806, start market:600963, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:807, start market:600962, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:808, start market:600961, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:809, start market:600960, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:810, start market:600959, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:811, start market:600958, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:812, start market:600939, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:813, start market:600936, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:814, start market:600933, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:815, start market:600929, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:816, start market:600928, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:817, start market:600926, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:818, start market:600919, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:819, start market:600917, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:820, start market:600909, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:821, start market:600908, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:822, start market:600903, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:823, start market:600901, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:824, start market:600900, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:825, start market:600898, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:826, start market:600897, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:827, start market:600896, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:828, start market:600895, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:829, start market:600894, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:830, start market:600893, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:831, start market:600892, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:832, start market:600891, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:833, start market:600890, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:834, start market:600889, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:835, start market:600888, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:836, start market:600887, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:837, start market:600886, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:838, start market:600885, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:839, start market:600884, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:840, start market:600883, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:841, start market:600882, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:842, start market:600881, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:843, start market:600880, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:844, start market:600879, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:845, start market:600877, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:846, start market:600876, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:847, start market:600875, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:848, start market:600874, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:849, start market:600873, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:850, start market:600872, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:851, start market:600871, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:852, start market:600870, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:853, start market:600869, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:854, start market:600868, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:855, start market:600867, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:856, start market:600866, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:857, start market:600865, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:858, start market:600864, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:859, start market:600863, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:860, start market:600862, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:861, start market:600861, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:862, start market:600860, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:863, start market:600859, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:864, start market:600858, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:865, start market:600857, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:866, start market:600856, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:867, start market:600855, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:868, start market:600854, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:869, start market:600853, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:870, start market:600851, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:871, start market:600850, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:872, start market:600848, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:873, start market:600847, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:874, start market:600846, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:875, start market:600845, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:876, start market:600844, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:877, start market:600843, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:878, start market:600841, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:879, start market:600839, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:880, start market:600838, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:881, start market:600837, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:882, start market:600836, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:883, start market:600835, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:884, start market:600834, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:885, start market:600833, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:886, start market:600831, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:887, start market:600830, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:888, start market:600829, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:889, start market:600828, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:890, start market:600827, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:891, start market:600826, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:892, start market:600825, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:893, start market:600824, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:894, start market:600823, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:895, start market:600822, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:896, start market:600821, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:897, start market:600820, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:898, start market:600819, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:899, start market:600818, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:900, start market:600817, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:901, start market:600816, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:902, start market:600815, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:903, start market:600814, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:904, start market:600812, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:905, start market:600811, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:906, start market:600810, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:907, start market:600809, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:908, start market:600808, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:909, start market:600807, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:910, start market:600805, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:911, start market:600804, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:913, start market:600802, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:914, start market:600801, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:915, start market:600800, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:916, start market:600798, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:917, start market:600797, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:918, start market:600796, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:919, start market:600795, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:920, start market:600794, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:921, start market:600793, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:922, start market:600792, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:923, start market:600791, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:924, start market:600790, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:925, start market:600789, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:926, start market:600787, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:927, start market:600785, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:928, start market:600784, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:929, start market:600783, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:930, start market:600782, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:931, start market:600781, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:932, start market:600780, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:933, start market:600779, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:934, start market:600778, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:935, start market:600777, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:936, start market:600776, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:937, start market:600775, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:938, start market:600774, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:939, start market:600773, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:940, start market:600771, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:941, start market:600770, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:942, start market:600769, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:943, start market:600768, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:944, start market:600767, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:945, start market:600766, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:946, start market:600765, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:947, start market:600764, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:948, start market:600763, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:949, start market:600761, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:950, start market:600760, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:951, start market:600759, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:952, start market:600758, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:953, start market:600757, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:954, start market:600756, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:955, start market:600755, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:956, start market:600754, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:957, start market:600753, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:958, start market:600751, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:959, start market:600750, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:960, start market:600749, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:961, start market:600748, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:962, start market:600746, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:963, start market:600745, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:964, start market:600744, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:965, start market:600743, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:966, start market:600742, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:967, start market:600741, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:968, start market:600740, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:969, start market:600739, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:970, start market:600738, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:971, start market:600737, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:972, start market:600736, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:973, start market:600735, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:974, start market:600734, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:975, start market:600733, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:976, start market:600732, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:977, start market:600731, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:978, start market:600730, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:979, start market:600729, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:980, start market:600728, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:981, start market:600727, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:982, start market:600726, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:983, start market:600725, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:984, start market:600724, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:985, start market:600723, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:986, start market:600722, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:987, start market:600721, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:988, start market:600720, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:989, start market:600719, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:990, start market:600718, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:991, start market:600717, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:992, start market:600716, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:993, start market:600715, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:994, start market:600714, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:995, start market:600713, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:996, start market:600712, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:997, start market:600711, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:998, start market:600710, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:999, start market:600708, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1000, start market:600707, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1001, start market:600706, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1002, start market:600705, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1003, start market:600704, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1004, start market:600703, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1005, start market:600702, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1006, start market:600701, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1007, start market:600699, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1008, start market:600698, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1009, start market:600697, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1010, start market:600696, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1011, start market:600695, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1012, start market:600694, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1013, start market:600693, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1014, start market:600692, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1015, start market:600691, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1016, start market:600690, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1017, start market:600689, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1018, start market:600688, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1019, start market:600687, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1020, start market:600686, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1021, start market:600685, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1022, start market:600684, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1023, start market:600683, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1024, start market:600682, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1025, start market:600681, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1026, start market:600679, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1027, start market:600678, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1028, start market:600677, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1029, start market:600676, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1030, start market:600675, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1031, start market:600674, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1032, start market:600673, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1033, start market:600671, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1034, start market:600668, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1035, start market:600667, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1036, start market:600666, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1037, start market:600665, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1038, start market:600664, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1039, start market:600663, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1040, start market:600662, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1041, start market:600661, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1042, start market:600660, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1043, start market:600658, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1044, start market:600657, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1045, start market:600655, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1046, start market:600654, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1047, start market:600653, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1048, start market:600652, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1049, start market:600651, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1050, start market:600650, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1051, start market:600649, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1052, start market:600648, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1053, start market:600647, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1054, start market:600645, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1055, start market:600644, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1056, start market:600643, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1057, start market:600642, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1058, start market:600641, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1059, start market:600640, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1060, start market:600639, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1061, start market:600638, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1062, start market:600637, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1063, start market:600636, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1064, start market:600635, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1065, start market:600634, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1066, start market:600633, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1067, start market:600630, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1068, start market:600629, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1069, start market:600628, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1070, start market:600626, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1071, start market:600624, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1072, start market:600623, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1073, start market:600622, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1074, start market:600621, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1075, start market:600620, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1076, start market:600619, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1077, start market:600618, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1078, start market:600617, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1079, start market:600616, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1080, start market:600615, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1081, start market:600614, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1082, start market:600613, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1083, start market:600612, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1084, start market:600611, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1086, start market:600609, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1087, start market:600608, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1088, start market:600606, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1089, start market:600605, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1090, start market:600604, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1091, start market:600603, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1092, start market:600602, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1093, start market:600601, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1094, start market:600600, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1095, start market:600599, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1096, start market:600598, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1097, start market:600597, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1098, start market:600596, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1099, start market:600595, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1100, start market:600594, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1101, start market:600593, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1102, start market:600592, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1103, start market:600590, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1104, start market:600589, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1105, start market:600588, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1106, start market:600587, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1107, start market:600586, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1108, start market:600585, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1109, start market:600584, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1110, start market:600583, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1111, start market:600582, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1112, start market:600581, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1113, start market:600580, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1114, start market:600579, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1115, start market:600578, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1116, start market:600577, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1117, start market:600576, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1118, start market:600575, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1119, start market:600573, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1120, start market:600572, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1121, start market:600571, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1122, start market:600570, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1123, start market:600569, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1124, start market:600568, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1125, start market:600567, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1126, start market:600566, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1127, start market:600565, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1128, start market:600563, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1129, start market:600562, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1130, start market:600561, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1131, start market:600560, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1132, start market:600559, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1133, start market:600558, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1134, start market:600557, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1135, start market:600556, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1136, start market:600555, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1137, start market:600552, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1138, start market:600551, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1139, start market:600550, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1140, start market:600549, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1141, start market:600548, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1142, start market:600547, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1143, start market:600546, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1144, start market:600545, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1145, start market:600543, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1146, start market:600540, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1147, start market:600539, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1148, start market:600538, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1149, start market:600537, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1150, start market:600536, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1151, start market:600535, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1152, start market:600533, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1153, start market:600532, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1154, start market:600531, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1155, start market:600530, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1156, start market:600529, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1157, start market:600528, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1158, start market:600527, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1159, start market:600526, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1160, start market:600525, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1161, start market:600523, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1162, start market:600522, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1163, start market:600521, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1164, start market:600520, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1165, start market:600519, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1166, start market:600518, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1167, start market:600517, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1168, start market:600516, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1169, start market:600515, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1170, start market:600513, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1171, start market:600512, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1172, start market:600511, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1173, start market:600510, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1174, start market:600509, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1175, start market:600508, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1176, start market:600507, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1177, start market:600506, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1178, start market:600505, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1179, start market:600503, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1180, start market:600502, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1181, start market:600501, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1182, start market:600500, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1183, start market:600499, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1184, start market:600498, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1185, start market:600497, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1186, start market:600496, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1187, start market:600495, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1188, start market:600493, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1189, start market:600491, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1190, start market:600490, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1191, start market:600489, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1192, start market:600488, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1193, start market:600487, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1194, start market:600486, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1195, start market:600485, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1196, start market:600483, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1197, start market:600482, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1198, start market:600481, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1199, start market:600480, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1200, start market:600479, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1201, start market:600478, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1202, start market:600477, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1203, start market:600476, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1204, start market:600475, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1205, start market:600470, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1206, start market:600469, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1207, start market:600468, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1208, start market:600467, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1209, start market:600466, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1210, start market:600463, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1211, start market:600462, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1212, start market:600461, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1213, start market:600460, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1214, start market:600459, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1215, start market:600458, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1216, start market:600456, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1217, start market:600455, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1218, start market:600452, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1219, start market:600449, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1220, start market:600448, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1221, start market:600446, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1222, start market:600444, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1223, start market:600439, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1224, start market:600438, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1225, start market:600436, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1226, start market:600435, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1227, start market:600433, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1228, start market:600429, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1229, start market:600428, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1230, start market:600426, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1231, start market:600425, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1232, start market:600423, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1233, start market:600422, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1234, start market:600421, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1235, start market:600420, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1236, start market:600419, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1237, start market:600418, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1238, start market:600416, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1239, start market:600415, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1240, start market:600410, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1241, start market:600409, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1242, start market:600408, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1243, start market:600406, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1244, start market:600405, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1245, start market:600403, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1246, start market:600400, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1247, start market:600399, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1248, start market:600398, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1249, start market:600397, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1250, start market:600396, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1251, start market:600395, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1252, start market:600393, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1253, start market:600392, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1254, start market:600391, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1255, start market:600390, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1256, start market:600389, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1257, start market:600388, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1258, start market:600387, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1259, start market:600386, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1260, start market:600385, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1261, start market:600383, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1262, start market:600382, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1263, start market:600381, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1264, start market:600380, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1265, start market:600379, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1266, start market:600378, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1267, start market:600377, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1268, start market:600376, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1269, start market:600375, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1270, start market:600373, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1271, start market:600372, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1272, start market:600371, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1273, start market:600370, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1274, start market:600369, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1275, start market:600368, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1276, start market:600367, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1277, start market:600366, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1278, start market:600365, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1279, start market:600363, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1280, start market:600362, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1281, start market:600361, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1282, start market:600360, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1283, start market:600359, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1284, start market:600358, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1285, start market:600356, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1286, start market:600355, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1287, start market:600354, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1288, start market:600353, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1289, start market:600352, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1290, start market:600351, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1291, start market:600350, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1292, start market:600348, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1293, start market:600346, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1294, start market:600345, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1295, start market:600343, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1296, start market:600340, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1297, start market:600339, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1298, start market:600338, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1299, start market:600337, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1300, start market:600336, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1301, start market:600335, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1302, start market:600333, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1303, start market:600332, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1304, start market:600331, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1305, start market:600330, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1306, start market:600329, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1307, start market:600328, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1308, start market:600327, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1309, start market:600326, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1310, start market:600325, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1311, start market:600323, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1312, start market:600322, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1313, start market:600321, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1314, start market:600320, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1315, start market:600319, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1316, start market:600318, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1317, start market:600317, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1318, start market:600316, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1319, start market:600315, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1320, start market:600313, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1321, start market:600312, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1322, start market:600311, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1323, start market:600310, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1324, start market:600309, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1325, start market:600308, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1326, start market:600307, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1327, start market:600306, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1328, start market:600305, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1329, start market:600303, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1330, start market:600302, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1331, start market:600301, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1332, start market:600300, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1333, start market:600299, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1334, start market:600298, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1335, start market:600297, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1336, start market:600295, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1337, start market:600293, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1338, start market:600292, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1339, start market:600291, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1340, start market:600290, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1341, start market:600289, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1342, start market:600288, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1343, start market:600287, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1344, start market:600285, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1345, start market:600284, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1346, start market:600283, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1347, start market:600282, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1348, start market:600281, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1349, start market:600280, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1350, start market:600279, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1351, start market:600278, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1352, start market:600277, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1353, start market:600276, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1354, start market:600275, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1355, start market:600273, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1356, start market:600272, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1357, start market:600271, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1358, start market:600269, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1359, start market:600268, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1360, start market:600267, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1361, start market:600266, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1362, start market:600265, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1363, start market:600262, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1364, start market:600261, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1365, start market:600260, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1366, start market:600259, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1367, start market:600258, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1368, start market:600257, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1369, start market:600256, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1370, start market:600255, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1371, start market:600252, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1372, start market:600251, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1373, start market:600250, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1374, start market:600249, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1375, start market:600248, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1376, start market:600247, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1377, start market:600246, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1378, start market:600243, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1379, start market:600242, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1380, start market:600241, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1381, start market:600239, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1382, start market:600238, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1383, start market:600237, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1384, start market:600236, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1385, start market:600235, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1386, start market:600234, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1387, start market:600233, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1388, start market:600232, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1389, start market:600231, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1390, start market:600230, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1391, start market:600229, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1392, start market:600228, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1393, start market:600227, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1394, start market:600226, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1395, start market:600225, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1396, start market:600223, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1397, start market:600222, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1398, start market:600221, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1399, start market:600220, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1400, start market:600219, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1401, start market:600218, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1402, start market:600217, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1403, start market:600216, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1404, start market:600215, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1405, start market:600213, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1406, start market:600212, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1407, start market:600211, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1408, start market:600210, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1409, start market:600209, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1410, start market:600208, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1411, start market:600207, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1412, start market:600206, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1413, start market:600203, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1414, start market:600202, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1415, start market:600201, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1416, start market:600200, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1417, start market:600199, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1418, start market:600198, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1419, start market:600197, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1420, start market:600196, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1421, start market:600195, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1422, start market:600193, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1423, start market:600192, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1424, start market:600191, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1425, start market:600190, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1426, start market:600189, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1427, start market:600188, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1428, start market:600187, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1429, start market:600186, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1430, start market:600185, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1431, start market:600184, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1432, start market:600183, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1433, start market:600182, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1434, start market:600180, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1435, start market:600179, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1436, start market:600178, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1437, start market:600177, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1438, start market:600176, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1439, start market:600175, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1440, start market:600173, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1441, start market:600172, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1442, start market:600171, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1443, start market:600170, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1444, start market:600169, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1445, start market:600168, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1446, start market:600167, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1447, start market:600166, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1448, start market:600165, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1449, start market:600163, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1450, start market:600162, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1451, start market:600161, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1452, start market:600160, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1453, start market:600159, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1454, start market:600158, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1455, start market:600157, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1456, start market:600156, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1457, start market:600155, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1458, start market:600153, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1459, start market:600152, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1460, start market:600151, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1461, start market:600150, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1462, start market:600149, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1463, start market:600148, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1464, start market:600146, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1466, start market:600143, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1467, start market:600141, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1468, start market:600139, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1469, start market:600138, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1470, start market:600137, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1471, start market:600136, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1472, start market:600135, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1473, start market:600133, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1474, start market:600132, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1475, start market:600131, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1476, start market:600130, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1477, start market:600129, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1478, start market:600128, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1479, start market:600127, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1480, start market:600126, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1481, start market:600125, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1482, start market:600123, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1483, start market:600122, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1484, start market:600121, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1485, start market:600120, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1486, start market:600119, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1487, start market:600118, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1488, start market:600117, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1489, start market:600116, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1490, start market:600115, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1491, start market:600114, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1492, start market:600113, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1493, start market:600112, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1494, start market:600111, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1495, start market:600110, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1496, start market:600109, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1497, start market:600108, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1498, start market:600107, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1499, start market:600106, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1500, start market:600105, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1501, start market:600104, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1502, start market:600103, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1503, start market:600101, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1504, start market:600100, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1505, start market:600099, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1506, start market:600098, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1507, start market:600097, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1508, start market:600096, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1509, start market:600095, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1510, start market:600094, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1511, start market:600093, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1512, start market:600091, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1513, start market:600090, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1514, start market:600089, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1515, start market:600088, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1516, start market:600086, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1517, start market:600085, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1518, start market:600084, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1519, start market:600083, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1520, start market:600082, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1521, start market:600081, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1522, start market:600080, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1523, start market:600079, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1524, start market:600078, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1525, start market:600077, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1526, start market:600076, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1527, start market:600075, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1529, start market:600073, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1530, start market:600072, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1531, start market:600071, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1532, start market:600070, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1533, start market:600069, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1534, start market:600068, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1535, start market:600067, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1536, start market:600066, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1537, start market:600064, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1538, start market:600063, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1539, start market:600062, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1540, start market:600061, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1541, start market:600060, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1542, start market:600059, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1543, start market:600058, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1544, start market:600057, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1545, start market:600056, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1546, start market:600055, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1547, start market:600054, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1548, start market:600053, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1549, start market:600052, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1550, start market:600051, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1551, start market:600050, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1552, start market:600048, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1553, start market:600039, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1554, start market:600038, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1555, start market:600037, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1556, start market:600036, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1557, start market:600035, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1558, start market:600033, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1559, start market:600031, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1560, start market:600030, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1561, start market:600029, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1562, start market:600028, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1563, start market:600027, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1564, start market:600026, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1565, start market:600025, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1566, start market:600023, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1567, start market:600022, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1568, start market:600021, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1569, start market:600020, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1570, start market:600019, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1571, start market:600018, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1572, start market:600017, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1573, start market:600016, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1574, start market:600015, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1575, start market:600012, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1576, start market:600011, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1577, start market:600010, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1578, start market:600009, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1579, start market:600008, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1580, start market:600007, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1581, start market:600006, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1582, start market:600004, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1583, start market:600000, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1610, start market:300789, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1611, start market:300788, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1612, start market:300787, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1613, start market:300786, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1614, start market:300785, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1615, start market:300783, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1616, start market:300782, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1617, start market:300781, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1618, start market:300780, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1619, start market:300779, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1620, start market:300778, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1621, start market:300777, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1622, start market:300776, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1623, start market:300775, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1624, start market:300773, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1625, start market:300772, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1626, start market:300771, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1627, start market:300770, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1628, start market:300769, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1629, start market:300768, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1630, start market:300767, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1631, start market:300766, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1632, start market:300765, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1633, start market:300763, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1634, start market:300762, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1635, start market:300761, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1636, start market:300760, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1637, start market:300759, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1638, start market:300758, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1639, start market:300757, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1640, start market:300756, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1641, start market:300755, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1642, start market:300753, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1643, start market:300752, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1644, start market:300751, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1645, start market:300750, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1646, start market:300749, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1647, start market:300748, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1648, start market:300747, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1649, start market:300746, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1650, start market:300745, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1651, start market:300743, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1652, start market:300742, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1653, start market:300741, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1654, start market:300740, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1655, start market:300739, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1656, start market:300738, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1657, start market:300737, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1658, start market:300736, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1659, start market:300735, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1660, start market:300733, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1661, start market:300732, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1662, start market:300731, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1663, start market:300730, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1664, start market:300729, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1665, start market:300727, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1666, start market:300726, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1667, start market:300725, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1668, start market:300724, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1669, start market:300723, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1670, start market:300722, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1671, start market:300721, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1672, start market:300720, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1673, start market:300719, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1674, start market:300718, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1675, start market:300717, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1676, start market:300716, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1677, start market:300715, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1678, start market:300713, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1679, start market:300712, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1680, start market:300711, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1681, start market:300710, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1682, start market:300709, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1683, start market:300708, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1684, start market:300707, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1685, start market:300706, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1686, start market:300705, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1687, start market:300703, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1688, start market:300702, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1689, start market:300701, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1690, start market:300700, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1691, start market:300699, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1692, start market:300698, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1693, start market:300697, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1694, start market:300696, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1695, start market:300695, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1696, start market:300694, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1697, start market:300693, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1698, start market:300692, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1699, start market:300691, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1700, start market:300690, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1701, start market:300689, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1702, start market:300688, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1703, start market:300687, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1704, start market:300686, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1705, start market:300685, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1706, start market:300684, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1707, start market:300683, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1708, start market:300682, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1709, start market:300681, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1710, start market:300680, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1711, start market:300679, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:index:1712, start market:300678, begin time 2019-09-06 00:00:00, current time:2019-09-06 00:00:00
+INFO:root:
+start rebot 2020-02-18 11:19:51
+INFO:root:
+start rebot 2020-02-18 11:22:30
+INFO:root:
+start rebot 2020-02-18 11:22:50
+INFO:root:
+start rebot 2020-02-18 11:23:55
+INFO:root:
+start rebot 2020-02-18 11:24:45
+INFO:root:
+start rebot 2020-02-18 11:25:18
+INFO:root:
+start rebot 2020-02-18 11:26:54
+INFO:root:
+start rebot 2020-02-18 11:27:31
+INFO:root:
+start rebot 2020-02-18 11:28:48
+INFO:root:
+start rebot 2020-02-18 11:29:27
+INFO:root:
+start rebot 2020-02-18 11:34:14
+INFO:root:
+start rebot 2020-02-18 11:35:02
+INFO:root:
+start rebot 2020-02-18 11:36:15
+INFO:root:
+start rebot 2020-02-18 11:37:54
+INFO:root:
+start rebot 2020-02-18 11:41:05
+INFO:root:
+start rebot 2020-02-18 11:43:15
+INFO:root:
+start rebot 2020-02-18 11:44:43
+INFO:root:
+start rebot 2020-02-18 11:46:56
+INFO:root:
+start rebot 2020-02-18 14:14:07
+INFO:root:
+start rebot 2020-02-18 14:19:15
+INFO:root:
+start rebot 2020-02-18 14:21:36
+INFO:root:
+start rebot 2020-02-18 14:23:31
+INFO:root:
+start rebot 2020-02-18 14:25:28
+INFO:root:
+start rebot 2020-02-18 14:27:30
+INFO:root:
+start rebot 2020-02-18 14:37:12
+INFO:root:
+start rebot 2020-02-18 14:37:17
+INFO:root:
+start rebot 2020-02-18 14:39:31
+INFO:root:
+start rebot 2020-02-18 14:40:22
+INFO:root:
+start rebot 2020-02-18 14:43:59
+INFO:root:
+start rebot 2020-02-18 14:45:21
+INFO:root:
+start rebot 2020-02-18 14:51:05
+INFO:root:
+start rebot 2020-02-18 15:32:46
+INFO:root:
+start rebot 2020-02-18 15:34:17
+INFO:root:
+start rebot 2020-02-18 15:35:20
+INFO:root:
+start rebot 2020-02-18 15:35:58
+INFO:root:
+start rebot 2020-02-18 15:42:29
+INFO:root:
+start rebot 2020-02-18 16:00:32
+INFO:root:\A2B rebot 2020-02-18 16:11:07
+INFO:root:
+A2B rebot 2020-02-18 16:17:01
+INFO:root:
+A2B rebot 2020-02-18 16:18:54
+INFO:root:
+A2B rebot 2020-02-18 16:22:21
+INFO:root:
+A2B rebot 2020-02-18 16:23:55
+INFO:root:
+A2B rebot 2020-02-18 16:25:57
+INFO:root:
+A2B rebot 2020-02-18 16:26:38
+INFO:root:
+B2C rebot 2020-02-18 16:31:33
+INFO:root:
+B2C rebot 2020-02-18 16:32:16
+INFO:root:
+B2C rebot 2020-02-18 16:33:41
+INFO:root:
+B2C rebot 2020-02-18 16:34:16
+INFO:root:
+B2C rebot 2020-02-18 16:42:04
+INFO:root:
+B2C rebot 2020-02-18 16:42:54
+INFO:root:
+B2C rebot 2020-02-18 16:43:31
+INFO:root:
+B2C rebot 2020-02-18 16:44:26
+INFO:root:
+B2C rebot 2020-02-18 16:44:56
+INFO:root:
+B2C rebot 2020-02-18 16:47:42
+INFO:root:
+B2C rebot 2020-02-18 16:48:54
+INFO:root:
+B2C rebot 2020-02-18 17:11:01
+INFO:root:
+B2C rebot 2020-02-18 17:13:50
+INFO:root:
+B2C rebot 2020-02-18 17:17:02
+INFO:root:
+B2C rebot 2020-02-18 17:22:41
+INFO:root:
+B2C rebot 2020-02-18 17:41:03
+INFO:root:
+B2C rebot 2020-02-18 17:42:14
+INFO:root:
+B2C rebot 2020-02-18 17:43:18
