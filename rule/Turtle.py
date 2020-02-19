@@ -44,11 +44,9 @@ class Turtle():
 
     def Run(self, d, period=None, servertimestamp=None):
         lastidx = self.KLines.Input(d);
-        ret = { "result" : 0};
+        ret = { "result" : 0, "vol_rate" : 0};
 
         if len(self.KLines) < 21:
-            return ret;
-        if self.KLines[-1].t != servertimestamp:
             return ret;
 
         RecordIdx = -1;
@@ -74,9 +72,11 @@ class Turtle():
 
         hhvVol = [];
         HIGH(self.KLines.volumes, hhvVol, 23);
-        if self.KLines[-1].vol / hhvVol[-1] < 0.5:
+        rate = round(self.KLines[-1].vol / hhvVol[-1], 2);
+        if  rate <= 0.5:
             ret['result'] = 2;
-        # print time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(KRecored.t)), time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(servertimestamp)), ret['result'];
+        ret['vol_rate'] =  rate;
+        # print  time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(KRecored.t)), time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(servertimestamp)), ret['result'];
 
         return ret;
 

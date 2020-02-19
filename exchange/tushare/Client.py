@@ -48,7 +48,7 @@ class Client():
         print 'prepare data compelete'
         
     def refresh(self, period, market):
-        key = '%s%s' %(id, period);
+        key = '%s%s' %(market, period);
         kd = get_bars(normalize_code(market), 200, unit='1d',fields=['date','open','high','low','close','volume','money'],include_now=True)
         self.kdatas[key] = kd;
 
@@ -57,7 +57,8 @@ class Client():
 
     def getK(self, market, period, timestamp):
         key = '%s%s' %(market, period);
-        return self.kdatas.get(key);
+        kd = self.kdatas.get(key);
+        return kd;
         # return self.kdatas[key]; #return ts.get_k_data(market, start = timestamp, ktype = period);
 
     # def get_trade_days

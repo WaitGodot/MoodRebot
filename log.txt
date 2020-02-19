@@ -1,0 +1,120 @@
+INFO:root:
+B2C rebot 2020-02-19 09:57:11
+INFO:root:
+B2C rebot 2020-02-19 09:58:26
+INFO:root:
+B2C rebot 2020-02-19 09:59:55
+INFO:root:
+B2C rebot 2020-02-19 10:02:00
+INFO:root:
+B2C rebot 2020-02-19 10:06:39
+INFO:root:
+B2C rebot 2020-02-19 10:10:52
+INFO:root:
+B2C rebot 2020-02-19 10:14:37
+INFO:root:
+B2C rebot 2020-02-19 10:16:10
+INFO:root:
+B2C rebot 2020-02-19 10:23:26
+INFO:root:
+B2C rebot 2020-02-19 10:31:56
+INFO:root:
+B2C rebot 2020-02-19 10:35:47
+INFO:root:
+B2C rebot 2020-02-19 10:37:08
+INFO:root:
+B2C rebot 2020-02-19 10:40:25
+INFO:root:
+B2C rebot 2020-02-19 10:43:57
+INFO:root:
+B2C rebot 2020-02-19 10:45:20
+INFO:root:
+B2C rebot 2020-02-19 10:51:35
+INFO:root:
+B2C rebot 2020-02-19 10:53:20
+INFO:root:
+B2C rebot 2020-02-19 11:00:49
+INFO:root:
+B2C rebot 2020-02-19 11:02:30
+INFO:root:
+B2C rebot 2020-02-19 11:04:01
+INFO:root:
+B2C rebot 2020-02-19 11:06:55
+INFO:root:
+B2C rebot 2020-02-19 11:10:00
+INFO:root:
+B2C rebot 2020-02-19 11:21:53
+INFO:root:
+B2C rebot 2020-02-19 11:25:23
+INFO:root:
+B2C rebot 2020-02-19 11:26:56
+INFO:root:
+B2C rebot 2020-02-19 11:28:24
+INFO:root:
+B2C rebot 2020-02-19 11:29:49
+INFO:root:
+B2C rebot 2020-02-19 11:38:04
+INFO:root:
+B2C rebot 2020-02-19 11:39:14
+INFO:root:
+B2C rebot 2020-02-19 11:40:33
+INFO:root:
+B2C rebot 2020-02-19 11:42:13
+INFO:root:
+B2C rebot 2020-02-19 11:45:15
+INFO:root:
+B2C rebot 2020-02-19 11:46:19
+INFO:root:
+B2C rebot 2020-02-19 11:51:36
+INFO:root:
+B2C rebot 2020-02-19 11:53:07
+INFO:root:
+B2C rebot 2020-02-19 11:58:10
+INFO:root:
+B2C rebot 2020-02-19 13:38:38
+INFO:root:
+B2C rebot 2020-02-19 13:43:10
+INFO:root:
+B2C rebot 2020-02-19 13:47:00
+INFO:root:
+B2C rebot 2020-02-19 13:53:58
+INFO:root:
+B2C rebot 2020-02-19 13:54:58
+INFO:root:
+B2C rebot 2020-02-19 13:56:13
+INFO:root:
+B2C rebot 2020-02-19 13:57:09
+INFO:root:
+B2C rebot 2020-02-19 13:58:27
+INFO:root:
+B2C rebot 2020-02-19 13:59:31
+INFO:root:
+B2C rebot 2020-02-19 14:00:54
+INFO:root:
+B2C rebot 2020-02-19 14:01:49
+INFO:root:
+B2C rebot 2020-02-19 14:03:29
+INFO:root:
+B2C rebot 2020-02-19 14:04:03
+INFO:root:
+B2C rebot 2020-02-19 14:04:59
+INFO:root:
+B2C rebot 2020-02-19 14:05:31
+INFO:root:
+B2C rebot 2020-02-19 14:06:23
+INFO:root:
+B2C rebot 2020-02-19 14:07:00
+INFO:root:
+B2C rebot 2020-02-19 14:08:57
+INFO:root:
+B2C rebot 2020-02-19 14:14:34
+INFO:root:
+B2C rebot 2020-02-19 14:15:54
+INFO:root:
+B2C rebot 2020-02-19 14:17:43
+INFO:root:
+B2C rebot 2020-02-19 14:19:30
+INFO:root:
+B2C rebot 2020-02-19 14:26:09
+INFO:root:
+B2C rebot 2020-02-19 14:27:31

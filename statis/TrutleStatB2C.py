@@ -65,14 +65,15 @@ class TrutleStatB2C():
             if ret != None:
                 ret['market'] = market;
                 if ret['result'] == 2:
-                    Pool.append(market);
+                    Pool.append(ret);
             if len(dk) > 0:
                 rest = False;
-        
+
+        Pool.sort(key=lambda v: v['vol_rate'], reverse=False)
         if rest == False:
             self.Pool = Pool;
 
-        if len(Pool) > 0:
+        if len(Pool) > 0 and False:
             print "message", time.strftime('%Y-%m-%d', time.localtime(self.currenttimestamp));
             print '\t', Pool;
         if self.currenttimestamp > time.time():
@@ -86,6 +87,6 @@ class TrutleStatB2C():
         w.writerow(['code']);
         for k, v in enumerate(self.Pool):
             d = [];
-            d.append(v)
+            d.append(v['market'])
             w.writerow(d);
         f.close();

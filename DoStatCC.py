@@ -50,8 +50,13 @@ def RunB2C():
 if __name__ == "__main__":
 
     if len(sys.argv) > 1:
-        RebotConfig.data_need_load = False;
+        argv1 = sys.argv[1].lower();
+        if argv1 == 'a':
+            RebotConfig.data_need_load = True;
+            RunA2B();
+        if argv1 == 'b':
+            RebotConfig.data_need_load = False;
+            RunB2C();
     else:
         RebotConfig.data_need_load = False;
-    # RunA2B();
-    RunB2C();
+        RunB2C();

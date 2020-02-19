@@ -102,7 +102,7 @@ class tushareEXLocal():
         self.client.prepare(PERIOD(period), TIMESTAMP(period, timestamp));
 
     def refresh(self, period, market):
-        self.client.refresh(period, market);
+        self.client.refresh(PERIOD(period), market);
 
     def createOrder(self, market, side, time, price, volume, ext):
         volume = math.floor(volume/100)*100;
@@ -193,15 +193,18 @@ class tushareEXLocal():
     def getK(self, market, limit, period, timestamp=None):
         ret = [];
         ks = self.kss.get(market);
+        timestamp = time.mktime(time.strptime(time.strftime('%Y-%m-%d', time.localtime(timestamp)), "%Y-%m-%d"));
         if ks==None:
             data = self.client.getK(market, PERIOD(period), TIMESTAMP(period, timestamp));
             if data is not None:
                 ndata = data.values.tolist();
                 for k,v in enumerate(ndata):
                     if period >= 240:
-                        v[0] = time.mktime(time.strptime(v[0], "%Y-%m-%d"));
+                        v[0] = time.mktime(time.strptime(str(v[0]), "%Y-%m-%d"));
                     else:
                         v[0] = time.mktime(time.strptime(v[0], "%Y-%m-%d %H:%M"));
+                    
+                # print time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(ndata[-1][0])), data.values[-1][0];
                 self.kss[market] = ndata;
                 ks = self.kss.get(market);
 
@@ -211,15 +214,14 @@ class tushareEXLocal():
         if timestamp > ks[-1][0]:
             # print '{0} k line is over'.format(market);
             return ret;
-
-        # print 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx',time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(timestamp))
         pp = TIMEINTERVAL(timestamp, period, limit);
+        # print market, len(ks), time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(timestamp)), time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(pp)), time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(ks[-1][0]));
         for k,v in enumerate(ks):
             if v[0] >= timestamp and v[0] < pp:
-                # print 'tt', time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(v[0])), v;
                 ret.append(v);
             if len(ret) >= limit:
                 return ret;
+        # print ret;
         return ret;
 
     def getOrder(self, market):
