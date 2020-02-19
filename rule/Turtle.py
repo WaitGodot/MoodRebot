@@ -73,7 +73,7 @@ class Turtle():
         hhvVol = [];
         HIGH(self.KLines.volumes, hhvVol, 23);
         rate = round(self.KLines[-1].vol / hhvVol[-1], 2);
-        if  rate <= 0.5:
+        if  rate <= 0.5 and KRecored.amplitude < 0.06:
             ret['result'] = 2;
         ret['vol_rate'] =  rate;
         # print  time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(KRecored.t)), time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(servertimestamp)), ret['result'];
