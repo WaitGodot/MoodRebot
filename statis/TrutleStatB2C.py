@@ -42,7 +42,7 @@ class TrutleStatB2C():
         for k,v in enumerate(self.markets):
             market = v['id'];
             self.exchange.refresh(self.period, market);
-            dk = self.exchange.getK(market, 1, self.period, RebotConfig.rebot_test_begin);
+            dk = self.exchange.getK(market, 15, self.period, RebotConfig.rebot_test_begin);
             r = Turtle();
             r.Run(dk);
             lastk = r.KLines.Get(-1);

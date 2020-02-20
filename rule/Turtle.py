@@ -22,7 +22,7 @@ class Turtle():
         self.data = [];
         self.MA23 = [];
         self.HHVVol = [];
-        self.LimitAmount = 10 * 100000000;
+        self.LimitAmount = 5 * 100000000;
 
     def Export(self, path):
         f = open(path, 'wb');

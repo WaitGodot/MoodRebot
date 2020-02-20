@@ -217,6 +217,7 @@ class tushareEXLocal():
         pp = TIMEINTERVAL(timestamp, period, limit);
         # print market, len(ks), time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(timestamp)), time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(pp)), time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(ks[-1][0]));
         for k,v in enumerate(ks):
+            # print timestamp, v[0], pp, time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(v[0]))
             if v[0] >= timestamp and v[0] < pp:
                 ret.append(v);
             if len(ret) >= limit:

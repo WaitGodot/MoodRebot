@@ -37,7 +37,7 @@ class TrutleStatA2B():
         for k,v in enumerate(self.markets):
             market = v['id'];
             if RebotConfig.rebot_is_test:
-                dk = self.exchange.getK(market, 1, self.period, RebotConfig.rebot_test_begin); # 1498838400:2017/7/1 0:0:0; 1496246400:2017/6/1 0:0:0; 1493568000:2017/5/1 0:0:0
+                dk = self.exchange.getK(market, 15, self.period, RebotConfig.rebot_test_begin); # 1498838400:2017/7/1 0:0:0; 1496246400:2017/6/1 0:0:0; 1493568000:2017/5/1 0:0:0
             else:
                 dk = self.exchange.getK(market, 500, self.period);
             r = Turtle();
