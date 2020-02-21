@@ -73,7 +73,7 @@ class TrutleStatB2C():
         if rest == False:
             self.Pool = Pool;
 
-        if len(Pool) > 0 and False:
+        if len(Pool) > 0 or False:
             print "message", time.strftime('%Y-%m-%d', time.localtime(self.currenttimestamp));
             print '\t', Pool;
         if self.currenttimestamp > time.time():

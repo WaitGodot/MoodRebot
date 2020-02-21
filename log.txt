@@ -352,3 +352,23 @@ INFO:root:index:191, start market:000021, begin time 2019-09-09 00:00:00, curren
 INFO:root:index:192, start market:000009, begin time 2019-09-09 00:00:00, current time:2019-09-20 00:00:00
 INFO:root:
 B2C rebot 2020-02-20 18:34:50
+INFO:root:
+B2C rebot 2020-02-20 18:37:05
+INFO:root:
+B2C rebot 2020-02-20 18:39:32
+INFO:root:
+B2C rebot 2020-02-20 18:41:39
+INFO:root:
+B2C rebot 2020-02-21 11:00:59
+INFO:root:
+B2C rebot 2020-02-21 11:04:19
+INFO:root:
+B2C rebot 2020-02-21 11:54:53
+INFO:root:
+B2C rebot 2020-02-21 13:29:35
+INFO:root:
+B2C rebot 2020-02-21 14:23:59
+INFO:root:
+B2C rebot 2020-02-21 14:46:21
+INFO:root:
+A2B rebot 2020-02-21 15:26:21
