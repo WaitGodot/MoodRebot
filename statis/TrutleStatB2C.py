@@ -61,6 +61,8 @@ class TrutleStatB2C():
             market = v['id'];
             r   = self.rules[market];
             dk  = self.exchange.getK(market, 1, self.period, self.currenttimestamp);
+            if len(dk) == 0:
+                continue;
             ret = r.Run(dk, self.period, self.currenttimestamp);
             if ret != None:
                 ret['market'] = market;
@@ -73,7 +75,7 @@ class TrutleStatB2C():
         if rest == False:
             self.Pool = Pool;
 
-        if len(Pool) > 0 or False:
+        if len(Pool) > 0:
             print "message", time.strftime('%Y-%m-%d', time.localtime(self.currenttimestamp));
             print '\t', Pool;
         if self.currenttimestamp > time.time():
