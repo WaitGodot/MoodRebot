@@ -9,6 +9,7 @@ from Time import Time
 from RebotConfig import RebotConfig
 from statis.TrutleStatA2B import TrutleStatA2B
 from statis.TrutleStatB2C import TrutleStatB2C
+from statis.TrutleStatAverage import TrutleStatAverage
 
 STATUS = "running";
 stop = 'stop'
@@ -47,6 +48,19 @@ def RunB2C():
             break;
     r.Export('%sbb.csv' % RebotConfig.path);
 
+def RunTrutleAverage():
+    Log.d('\nB2C rebot %s' % time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(Time.Time())));
+    r = TrutleStatAverage(RebotConfig.rebot_period, None)#[{'id':'002838'}]);
+    #refresh data.
+    while True:
+        global STATUS;
+        if STATUS == 'stop':
+            break;
+        stop = r.Run();
+        if stop:
+            break;
+    r.Export('%scc.csv' % RebotConfig.path);
+
 if __name__ == "__main__":
 
     if len(sys.argv) > 1:
@@ -57,6 +71,9 @@ if __name__ == "__main__":
         if argv1 == 'b':
             RebotConfig.data_need_load = False;
             RunB2C();
+        if argv1 == 'c':
+            RebotConfig.data_need_load = False;
+            RunTrutleAverage();
     else:
         RebotConfig.data_need_load = False;
         RunB2C();
