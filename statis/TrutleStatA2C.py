@@ -34,6 +34,9 @@ class TrutleStatA2C():
         # init.
         self.currenttimestamp = 0;
         self.Pool = [];
+        self.PrePool = [];
+        self.PreAverageProfit = [];
+
         for k,v in enumerate(self.markets):
             market = v['id'];
             dk = self.exchange.getK(market, 15, self.period, RebotConfig.rebot_test_begin);
@@ -65,16 +68,25 @@ class TrutleStatA2C():
             if len(dk) > 0:
                 rest = False;
 
+        Log.d(time.strftime('%Y-%m-%d', time.localtime(self.currenttimestamp)));
         Pool.sort(key=lambda v: v['vol_rate'], reverse=False)
         if rest == False:
+            avergp = 0;
+            if len(self.PrePool) > 0:
+                for k,v in enumerate(self.PrePool):
+                    market = v['market'];
+                    r = self.rules[market];
+                    avergp = (r.KLines[-1].c - r.KLines[-2].c)/r.KLines[-2].c;
+                avergp = avergp / len(self.PrePool);
+            self.PrePool = self.Pool;
             self.Pool = Pool;
+            Log.d('average 1: %s' % round(avergp*100, 2));
 
         if len(Pool) > 0:
             #print "message", time.strftime('%Y-%m-%d', time.localtime(self.currenttimestamp));
             mks = [];
             for k, v in enumerate(self.Pool):
                 mks.append(v['market']);
-            Log.d(time.strftime('%Y-%m-%d', time.localtime(self.currenttimestamp)));
             Log.d(mks);
             #print '\t', Pool;
         if self.currenttimestamp > time.time():
