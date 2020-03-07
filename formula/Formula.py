@@ -104,7 +104,7 @@ def MAX(Arr, idx1=None, idx2=None):
 # MIN
 def MIN(Arr, idx1=None, idx2=None):
     l = len(Arr);
-    if l <= 0:
+    if l <= 0 or (idx2 > 0 and l <= idx2) or (idx1 < 0 and l + idx1 < 0):
         return None;
     idx1 = 0 if idx1==None else idx1;
     idx2 = l if idx2==None else idx2;
@@ -117,7 +117,7 @@ def MIN(Arr, idx1=None, idx2=None):
 # SUM
 def SUM(Arr, idx1=None, idx2=None):
     l = len(Arr);
-    if l <= 0:
+    if l <= 0 or (idx2 > 0 and l <= idx2) or (idx1 < 0 and l + idx1 < 0):
         return 1;
     idx1 = 0 if idx1==None else idx1;
     idx2 = l if idx2==None else idx2;

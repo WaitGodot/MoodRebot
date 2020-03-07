@@ -15,7 +15,7 @@ from rule.Turtle import Turtle
 from Time import Time
 from Log import Log
 
-class TrutleStatA2B():
+class TrutleStatA2C():
     def __init__(self, period):
         self.period = period;
         self.exchange = Exchange(RebotConfig.access_key, RebotConfig.secret_key);
@@ -36,10 +36,7 @@ class TrutleStatA2B():
         self.Pool = [];
         for k,v in enumerate(self.markets):
             market = v['id'];
-            if RebotConfig.rebot_is_test:
-                dk = self.exchange.getK(market, 15, self.period, RebotConfig.rebot_test_begin); # 1498838400:2017/7/1 0:0:0; 1496246400:2017/6/1 0:0:0; 1493568000:2017/5/1 0:0:0
-            else:
-                dk = self.exchange.getK(market, 500, self.period);
+            dk = self.exchange.getK(market, 15, self.period, RebotConfig.rebot_test_begin);
             r = Turtle();
             r.Run(dk);
             lastk = r.KLines.Get(-1);
@@ -58,21 +55,32 @@ class TrutleStatA2B():
             market = v['id'];
             r   = self.rules[market];
             dk  = self.exchange.getK(market, 1, self.period, self.currenttimestamp);
+            if len(dk) == 0:
+                continue;
             ret = r.Run(dk, self.period, self.currenttimestamp);
             if ret != None:
                 ret['market'] = market;
-                if ret['result'] != 0:
-                    Pool.append(market);
+                if ret['result'] == 2:
+                    Pool.append(ret);
             if len(dk) > 0:
                 rest = False;
 
+        Pool.sort(key=lambda v: v['vol_rate'], reverse=False)
+        if rest == False:
+            self.Pool = Pool;
+
+        if len(Pool) > 0:
+            #print "message", time.strftime('%Y-%m-%d', time.localtime(self.currenttimestamp));
+            mks = [];
+            for k, v in enumerate(self.Pool):
+                mks.append(v['market']);
+            Log.d(time.strftime('%Y-%m-%d', time.localtime(self.currenttimestamp)));
+            Log.d(mks);
+            #print '\t', Pool;
         if self.currenttimestamp > time.time():
             stop = True;
-        
-        if  rest == False:
-            self.Pool = Pool;
-            print len(Pool), time.strftime('%Y-%m-%d', time.localtime(self.currenttimestamp));
         return stop;
+
 
     def Export(self, path):
         f = open(path, 'wb');
@@ -80,6 +88,6 @@ class TrutleStatA2B():
         w.writerow(['code']);
         for k, v in enumerate(self.Pool):
             d = [];
-            d.append(v)
+            d.append(v['market'])
             w.writerow(d);
         f.close();

@@ -46,7 +46,7 @@ class Turtle():
         lastidx = self.KLines.Input(d);
         ret = { "result" : 0, "vol_rate" : 0};
 
-        if len(self.KLines) < 21:
+        if len(self.KLines) < 23:
             return ret;
 
         RecordIdx = -1;
@@ -66,20 +66,43 @@ class Turtle():
         for idx in range(RecordIdx, 0):
             if self.KLines[idx].c < KRecored.c * 0.93:
                 return ret;
-        ret['result'] = 1;
 
-        hhvVol = [];
-        HIGH(self.KLines.volumes, hhvVol, 23);
-        ck = self.KLines[-1];
-        pk = self.KLines[-2];
-        rate = round(ck.vol / hhvVol[-1], 2);
-        increase = round(abs((ck.c - pk.c)/pk.c),4);
-        if  rate <= 0.45 and ck.amplitude <= 0.04 and increase <= 0.03 and round(abs((ck.c - ck.o)/ck.o),4) < 0.015:
-            ret['result'] = 2;
-        ret['vol_rate'] =  rate;
-        ret['amplitude'] =  round(ck.amplitude,2);
-        ret['increase'] = increase;
-        # print rate, round(KRecored.amplitude, 2), time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(KRecored.t)), time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(servertimestamp)), ret['result'];
+        if len(self.KLines) > -RecordIdx + 23 * 2:
+            highc0 = MAX(self.KLines.prices, RecordIdx, 0);
+            highc1 = MAX(self.KLines.prices, RecordIdx - 23, RecordIdx);
+            lowc1 = MIN(self.KLines.prices, RecordIdx - 23, RecordIdx);
+            highc2 = MAX(self.KLines.prices, RecordIdx - 23 * 2, RecordIdx - 23);
+            lowc2 = MIN(self.KLines.prices, RecordIdx - 23 * 2, RecordIdx - 23);
+            v0 = 0;
+            for idx in range(RecordIdx, 0):
+                v0 += self.KLines[idx].vol;
+            v1 = 0;
+            for idx in range(RecordIdx-23, RecordIdx):
+                v1 += self.KLines[idx].vol;
+            v2 = 0;
+            for idx in range(RecordIdx - 23*2, RecordIdx-23):
+                v2 += self.KLines[idx].vol;
+            # print RecordIdx, KRecored.c, self.KLines[-1].c, highc1, highc2, highc1 - (highc1 - lowc1)/8 >= highc2;
+            if v1 / v2 >= 1.25 and highc0 >=highc1 and highc1 - (highc1 - lowc1)/8 >= highc2:
+                ret['result'] = 1;
+            else:
+                return ret;
+        else:
+            return ret;
+
+        if ret['result'] == 1:
+            hhvVol = [];
+            HIGH(self.KLines.volumes, hhvVol, 23);
+            ck = self.KLines[-1];
+            pk = self.KLines[-2];
+            rate = round(ck.vol / hhvVol[-1], 2);
+            increase = round(abs((ck.c - pk.c)/pk.c),4);
+            if  rate <= 0.45 and ck.amplitude <= 0.04 and increase <= 0.03 and round(abs((ck.c - ck.o)/ck.o),4) < 0.015:
+                ret['result'] = 2;
+            ret['vol_rate'] =  rate;
+            ret['amplitude'] =  round(ck.amplitude,2);
+            ret['increase'] = increase;
+        # print rate, ck.amplitude, increase, round(abs((ck.c - ck.o)/ck.o),4), round(KRecored.amplitude, 2), time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(KRecored.t)), time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(servertimestamp)), ret['result'];
 
         return ret;
 
