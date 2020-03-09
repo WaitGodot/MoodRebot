@@ -64,7 +64,7 @@ class Turtle():
         
         KRecored = self.KLines[RecordIdx];
         for idx in range(RecordIdx, 0):
-            if self.KLines[idx].c < KRecored.c * 0.93:
+            if self.KLines[idx].c < KRecored.c * 0.94:
                 return ret;
 
         if len(self.KLines) > -RecordIdx + 23 * 2:
@@ -97,7 +97,7 @@ class Turtle():
             pk = self.KLines[-2];
             rate = round(ck.vol / hhvVol[-1], 2);
             increase = round(abs((ck.c - pk.c)/pk.c),4);
-            if  rate <= 0.45 and ck.amplitude <= 0.04 and increase <= 0.03 and round(abs((ck.c - ck.o)/ck.o),4) < 0.015:
+            if  rate <= 0.45 and ck.amplitude <= 0.044 and increase <= 0.03 and round(abs((ck.c - ck.o)/ck.o),4) < 0.015:
                 ret['result'] = 2;
             ret['vol_rate'] =  rate;
             ret['amplitude'] =  round(ck.amplitude,2);
