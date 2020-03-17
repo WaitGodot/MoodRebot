@@ -39,6 +39,7 @@ class TrutleStatB2C():
         # init.
         self.currenttimestamp = 0;
         self.Pool = [];
+        print 'markt count ', len(self.markets);
         for k,v in enumerate(self.markets):
             market = v['id'];
             self.exchange.refresh(self.period, market);
