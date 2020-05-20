@@ -44,7 +44,7 @@ def PERIOD(period):
 class chbtcEX():
 
     def set(self, access, sercet):
-        self.client = Client(access_key='6b658f1b-8a44-41cc-b307-ae3e95cc7de1', secret_key='d19135ee-d071-4653-a1b9-5b8065a07efc');
+        self.client = Client(access_key='', secret_key='');
 
     # function
     def getServerTimestamp(self):
