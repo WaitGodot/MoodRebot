@@ -4977,3 +4977,21 @@ INFO:root:
 A2B rebot 2020-05-19 18:32:46
 INFO:root:
 A2B rebot 2020-05-20 15:34:22
+INFO:root:
+B2C rebot 2020-05-21 13:43:15
+INFO:root:
+B2C rebot 2020-05-21 14:47:58
+INFO:root:
+A2B rebot 2020-05-21 17:50:01
+INFO:root:
+B2C rebot 2020-05-22 14:41:24
+INFO:root:
+B2C rebot 2020-05-22 14:49:08
+INFO:root:
+A2B rebot 2020-05-22 15:43:54
+INFO:root:
+B2C rebot 2020-05-25 14:52:55
+INFO:root:
+B2C rebot 2020-05-25 14:54:57
+INFO:root:
+A2B rebot 2020-05-25 16:00:00
